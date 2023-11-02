@@ -1,2 +1,2 @@
-# Gym_landing_page
+#CodeAlpha_Tasks
 I developed this landing page using HTML, CSS, and JavaScript.
